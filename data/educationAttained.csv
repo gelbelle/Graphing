@@ -1,5 +1,5 @@
-Categories,Denman,Hornby,CV,BC,Canada
-"No certificate, diploma or degree",0.09053497942,0.1256281407,0.1280836465,0.1346685157,0.1615108692
-High school diploma or equivalency certificate,0.2345679012,0.3065326633,0.3074661003,0.2947320807,0.2669210736
-Postsecondary below bachelor level,0.2839506173,0.2613065327,0.3395686979,0.2849830672,0.3050114032
-Bachelor's degree or higher,0.3950617284,0.3065326633,0.2247998693,0.2856163364,0.2665568189
+All,Denman,Hornby,CV,BC,Canada
+No certificate diploma or degree,110,125,7840,565665,4899580
+High (secondary) school diploma or equivalency certificate,285,305,18820,1238000,8097295
+Postsecondary certificate or diploma below bachelor level,345,260,20785,1197050,9252800
+Bachelor's degree or higher,480,305,13760,1199710,8086245
